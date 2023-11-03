@@ -1,5 +1,4 @@
-<html><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"></head><body>#EXTM3U
+#EXTM3U
 #EXT-X-TARGETDURATION:18
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-PLAYLIST-TYPE:VOD
@@ -254,4 +253,3 @@ https://s8.putgate.org/static/a3677f8c2b5e21b24fbfced85a54e4f7/page-124.html
 #EXTINF:3.003,
 https://s8.putgate.org/static/a3677f8c2b5e21b24fbfced85a54e4f7/page-125.html
 #EXT-X-ENDLIST
-</body></html>
